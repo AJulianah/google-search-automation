@@ -1,0 +1,21 @@
+{
+  "name": "learn-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJulianah/google-search-automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJulianah/google-search-automation/issues"
+  },
+  "homepage": "https://github.com/AJulianah/google-search-automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  }
+}
